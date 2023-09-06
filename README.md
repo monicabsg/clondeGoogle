@@ -26,6 +26,6 @@ Las tecnologías que use son:
 Aprender a utilizar las etiquetas estandar de HTML5 y CSS3.
 
 ## 4. Link a Demo
-Aquí puedes ver mi proyecto terminado: [Clon de Google]([#](https://clonde-google.vercel.app/)https://clonde-google.vercel.app/)
+Aquí puedes ver mi proyecto terminado: [Clon de Google](https://clonde-google.vercel.app)
 
 
